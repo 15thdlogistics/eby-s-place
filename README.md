@@ -1,1 +1,0 @@
-# eby-s-place
