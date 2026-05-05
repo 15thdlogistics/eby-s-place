@@ -5,11 +5,11 @@ compatibility_date = "2024-12-01"
 [[d1_databases]]
 binding = "connectors"
 database_name = "connectors-db"
-database_id = "xxxx"
+database_id = "48afca59-3715-40f3-ab53-a00f428296a7"
 
 [[kv_namespaces]]
 binding = "ADMIN_CACHE"
-id = "xxxx"
+id = "905b848b52ba4bf69fe1d59fbfe29d84"
 
 [[services]]
 binding = "AUTH_SERVICE"
