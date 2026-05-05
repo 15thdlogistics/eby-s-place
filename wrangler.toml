@@ -13,7 +13,7 @@ id = "905b848b52ba4bf69fe1d59fbfe29d84"
 
 [[services]]
 binding = "AUTH_SERVICE"
-service = "auth-worker"
+service = "auth-connectors"
 
 [[services]]
 binding = "PAYMENT_SERVICE"
