@@ -15,26 +15,13 @@ id = "905b848b52ba4bf69fe1d59fbfe29d84"
 binding = "AUTH_SERVICE"
 service = "auth-connectors"
 
-[[services]]
-binding = "PAYMENT_SERVICE"
-service = "payment-worker"
 
 [[services]]
 binding = "WALLET_SERVICE"
 service = "wallet-worker"
 
-[[services]]
-binding = "PAYOUT_SERVICE"
-service = "payout-worker"
-
-[[services]]
-binding = "DISPUTE_SERVICE"
-service = "dispute-worker"
 
 [[services]]
 binding = "NOTIFICATION_SERVICE"
 service = "notification-worker"
 
-[[services]]
-binding = "EVENT_BUS"
-service = "event-bus-worker"
